@@ -70,8 +70,8 @@ I value learning, clarity, and building reliable systems.
 
 ## 🔗 Links
 
-- GitHub: https://github.com/masoodtaghvaee68-gif  
-- LinkedIn: *(linked from profile)*
+- **GitHub:** [github.com/masoodtaghvaee68-gif](https://github.com/masoodtaghvaee68-gif)
+- **LinkedIn:** [Linked from profile](https://www.linkedin.com/in/masoud-taghvaee/)
 
 ---
 
