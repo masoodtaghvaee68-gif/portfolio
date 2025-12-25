@@ -25,8 +25,7 @@ My current focus is:
 
 An AI-powered automation that analyzes job-related emails (LinkedIn, StepStone, recruiters), extracts key information, explains requirements, and delivers structured insights directly to Telegram.
 
-🔗 **Repository:**  
-R- Repository: [AI Job Agent](https://github.com/masoodtaghvaee68-gif/ai-job-agent)
+🔗 **Repository:** [AI Job Agent](https://github.com/masoodtaghvaee68-gif/AI-job-agent)
 
 #### What it does
 - Reads job-related emails automatically
